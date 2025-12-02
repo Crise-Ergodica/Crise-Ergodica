@@ -2,19 +2,52 @@
 
 # 🌸 Aurora Ergodica
 
+**Estudante de Engenharia de Software • Machine Learning Enthusiast • Desenvolvedora Python**
+
 **Software Engineering Student • Machine Learning Enthusiast • Python Developer**
 
 </div>
 
 ---
 
-## 👋 Hi there!
+## 👋 Olá! / Hi there!
+
+### 🇧🇷 Português
+
+Sou Aurora, uma estudante de engenharia de software apaixonada por machine learning, ciência de dados e projetos criativos. Atualmente explorando visão computacional, implementação de modelos e construindo coisas incríveis com código.
+
+### 🇬🇧 English
 
 I'm Aurora, a software engineering student passionate about machine learning, data science, and creative projects. Currently exploring computer vision, model deployment, and building cool things with code.
 
 ---
 
-## 🌸 About Me
+## 🌸 Sobre Mim / About Me
+
+### 🇧🇷 Português
+
+```python
+class Aurora:
+    def __init__(self):
+        self.pronouns = "ela/dela"
+        self.location = "Brasil 🇧🇷"
+        self.education = "Engenharia de Software @ Unileste (6/8)"
+        self.interests = [
+            "Machine Learning & Visão Computacional",
+            "Ciência de Dados & Analytics",
+            "Escrita Criativa & Worldbuilding",
+            "Design de Jogos de Mesa"
+        ]
+    
+    def current_focus(self):
+        return [
+            "🔭 Trabalhando com YOLO & Detecção de Objetos",
+            "🌱 Aprendendo MLOps & Deploy de Modelos",
+            "💡 Construindo pipelines de dados com Apache Hop"
+        ]
+```
+
+### 🇬🇧 English
 
 ```python
 class Aurora:
@@ -43,7 +76,7 @@ class Aurora:
 
 ```yaml
 languages:
-  - Python (Primary)
+  - Python (Primary / Primária)
   - SQL
   - JavaScript, HTML, CSS
   - LaTeX
@@ -68,26 +101,29 @@ tools:
 
 <div align="center">
 
-<div align="center">
-
 [![GitHub Stats](https://img.shields.io/badge/📊_GitHub_Stats-4c4c4c?style=for-the-badge)](https://github.com/Crise-Ergodica)
 
 [![Top Languages](https://img.shields.io/badge/💻_Top_Languages-Python_|_SQL-blue?style=for-the-badge)](https://github.com/Crise-Ergodica?tab=repositories)
 
 </div>
 
-</div>
-
 ---
 
-## ⭐ Featured Projects
+## ⭐ Projetos em Destaque / Featured Projects
+
+### 🇧🇷 Português
+
+- **[YOLOPunk](https://github.com/Crise-Ergodica/yolopunk)** - Um framework para detecção de objetos usando YOLO
+- **[Unbenanntes_Projekt](https://github.com/Crise-Ergodica/Unbenanntes_Projekt)** - Experimentos de ciência de dados e modelos
+
+### 🇬🇧 English
 
 - **[YOLOPunk](https://github.com/Crise-Ergodica/yolopunk)** - A framework for object detection using YOLO
 - **[Unbenanntes_Projekt](https://github.com/Crise-Ergodica/Unbenanntes_Projekt)** - Data science experiments and models
 
 ---
 
-## 📫 Let's Connect
+## 📫 Vamos Conectar / Let's Connect
 
 <div align="center">
 
@@ -101,6 +137,10 @@ tools:
 
 <div align="center">
 
+### 🇧🇷 Português
+**Obrigada por visitar! Sinta-se livre para explorar meus projetos e entrar em contato.** ✨
+
+### 🇬🇧 English
 **Thanks for visiting! Feel free to explore my projects and reach out.** ✨
 
 </div>
