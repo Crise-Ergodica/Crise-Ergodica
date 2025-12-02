@@ -68,9 +68,13 @@ tools:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Crise-Ergodica&show_icons=true&theme=ambient_gradient&hide_border=true&bg_color=0d1117&title_color=e0e6fc&text_color=a8b5d1&icon_color=d9a5d9)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Crise-Ergodica&layout=compact&langs_count=6&theme=ambient_gradient&hide_border=true&bg_color=0d1117&title_color=e0e6fc&text_color=a8b5d1)
+[![GitHub Stats](https://img.shields.io/badge/📊_GitHub_Stats-4c4c4c?style=for-the-badge)](https://github.com/Crise-Ergodica)
+
+[![Top Languages](https://img.shields.io/badge/💻_Top_Languages-Python_|_SQL-blue?style=for-the-badge)](https://github.com/Crise-Ergodica?tab=repositories)
+
+</div>
 
 </div>
 
