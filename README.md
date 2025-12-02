@@ -1,15 +1,18 @@
 <div align="center">
 
-<!-- Banner minimalista com degradê pastel -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E8C5E5,D4A5A5,B5C7D3,C5E5E7&height=150&section=header&text=Aurora%20Ergodica&fontSize=45&fontColor=5A5A5A&animation=fadeIn&fontAlignY=35" alt="Header"/>
+# 🌸 Aurora Ergodica
 
-### Hi there, I'm Aurora 👋
-
-*Software Engineering Student • Machine Learning Enthusiast • Python Developer*
-
-<br>
+**Software Engineering Student • Machine Learning Enthusiast • Python Developer**
 
 </div>
+
+---
+
+## 👋 Hi there!
+
+I'm Aurora, a software engineering student passionate about machine learning, data science, and creative projects. Currently exploring computer vision, model deployment, and building cool things with code.
+
+---
 
 ## 🌸 About Me
 
@@ -34,13 +37,13 @@ class Aurora:
         ]
 ```
 
-<br>
+---
 
 ## 🛠️ Tech Stack
 
 ```yaml
 languages:
-  - Python  # Primary
+  - Python (Primary)
   - SQL
   - JavaScript, HTML, CSS
   - LaTeX
@@ -59,52 +62,41 @@ tools:
   - Docker
 ```
 
-<br>
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Crise-Ergodica&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&border_radius=8&hide_border=true&bg_color=00000000&title_color=B5A7C7&icon_color=D4A5A5&text_color=6B6B6B"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Crise-Ergodica&show_icons=true&theme=ambient_gradient&hide_border=true&bg_color=0d1117&title_color=e0e6fc&text_color=a8b5d1&icon_color=d9a5d9)
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crise-Ergodica&layout=compact&langs_count=6&theme=buefy&border_radius=8&hide_border=true&bg_color=00000000&title_color=B5A7C7&text_color=6B6B6B"/>
-
-</div>
-
-<br>
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-[![YOLOpunk](https://github-readme-stats.vercel.app/api/pin/?username=Crise-Ergodica&repo=yolopunk&theme=buefy&border_radius=8&hide_border=true&bg_color=00000000&title_color=B5A7C7&icon_color=D4A5A5&text_color=6B6B6B)](https://github.com/Crise-Ergodica/yolopunk)
-
-[![Unbenanntes_Projekt](https://github-readme-stats.vercel.app/api/pin/?username=Crise-Ergodica&repo=Unbenanntes_Projekt&theme=buefy&border_radius=8&hide_border=true&bg_color=00000000&title_color=B5A7C7&icon_color=D4A5A5&text_color=6B6B6B)](https://github.com/Crise-Ergodica/Unbenanntes_Projekt)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Crise-Ergodica&layout=compact&langs_count=6&theme=ambient_gradient&hide_border=true&bg_color=0d1117&title_color=e0e6fc&text_color=a8b5d1)
 
 </div>
-
-<br>
-
-## 📫 Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-B5A7C7?style=flat-square&logo=github&logoColor=white)](https://github.com/Crise-Ergodica)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-D4A5A5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![Email](https://img.shields.io/badge/Email-C5E5E7?style=flat-square&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
-
-</div>
-
-<br>
-
-<div align="center">
 
 ---
 
-*"God's in His heaven, all's right with the world!"*
+## ⭐ Featured Projects
 
-<img src="https://komarev.com/ghpvc/?username=Crise-Ergodica&color=B5A7C7&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+- **[YOLOPunk](https://github.com/Crise-Ergodica/yolopunk)** - A framework for object detection using YOLO
+- **[Unbenanntes_Projekt](https://github.com/Crise-Ergodica/Unbenanntes_Projekt)** - Data science experiments and models
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E8C5E5,D4A5A5,B5C7D3,C5E5E7&height=100&section=footer" alt="Footer"/>
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D4A5A5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-B5C7D3?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![GitHub](https://img.shields.io/badge/GitHub-5A5A5A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Crise-Ergodica)
+
+</div>
+
+---
+
+<div align="center">
+
+**Thanks for visiting! Feel free to explore my projects and reach out.** ✨
 
 </div>
