@@ -12,62 +12,99 @@
 
 ## 👋 Olá! / Hi there!
 
-### 🇧🇷 Português
+### Português
 
-Sou Aurora, uma estudante de engenharia de software apaixonada por machine learning, ciência de dados e projetos criativos. Atualmente explorando visão computacional, implementação de modelos e construindo coisas incríveis com código.
+Sou Aurora, estudante de Engenharia de Software e escritora de literatura ergódica, dedicada a fundir narrativa e código em sistemas complexos. Com altas habilidades, transito entre o desenvolvimento backend em Python/Django e a criação de universos de RPG, buscando sempre a inovação na forma como histórias são contadas e jogadas.
 
-### 🇬🇧 English
+### English
 
-I'm Aurora, a software engineering student passionate about machine learning, data science, and creative projects. Currently exploring computer vision, model deployment, and building cool things with code.
+I'm Aurora, a Software Engineering student and ergodic literature writer, dedicated to merging narrative and code in complex systems. Highly skilled, I move between backend development in Python/Django and the creation of RPG universes, always seeking innovation in how stories are told and played.
 
 ---
 
 ## 🌸 Sobre Mim / About Me
 
-### 🇧🇷 Português
+### Python
 
 ```python
-class Aurora:
-    def __init__(self):
-        self.pronouns = "ela/dela"
-        self.location = "Brasil 🇧🇷"
-        self.education = "Engenharia de Software @ Unileste (6/8)"
-        self.interests = [
-            "Machine Learning & Visão Computacional",
-            "Ciência de Dados & Analytics",
-            "Escrita Criativa & Worldbuilding",
-            "Design de Jogos de Mesa"
-        ]
-    
-    def current_focus(self):
-        return [
-            "🔭 Trabalhando com YOLO & Detecção de Objetos",
-            "🌱 Aprendendo MLOps & Deploy de Modelos",
-            "💡 Construindo pipelines de dados com Apache Hop"
-        ]
-```
+from datetime import date
+from typing import List, Dict
 
-### 🇬🇧 English
-
-```python
 class Aurora:
-    def __init__(self):
-        self.pronouns = "she/her"
-        self.location = "Brasil 🇧🇷"
-        self.education = "Software Engineering @ Unileste (6/8)"
-        self.interests = [
-            "Machine Learning & Computer Vision",
-            "Data Science & Analytics",
-            "Creative Writing & Worldbuilding",
-            "Tabletop RPG Design"
-        ]
+    """
+    Representação de uma desenvolvedora e escritora focada em Cybertext e narrativas não-lineares.
     
-    def current_focus(self):
+    Esta classe encapsula a complexidade de uma mente com Altas Habilidades/Superdotação (AH/SD),
+    unindo o rigor técnico da Engenharia de Software com a fluidez artística da literatura ergódica.
+    """
+
+    def __init__(self):
+        self.identidade = {
+            "nome": "Aurora",
+            "pronomes": ("Ela", "Dela"),
+            "nascimento": date(2003, 2, 17),
+            "identificacao": "Mulher Trans / Travesti",
+            "neurodivergencia": ["Altas Habilidades / Superdotação", "Bipolaridade Tipo 2"]
+        }
+        
+        self.amor = {
+            "status": "Namorando",
+            "parceira": "Larissa",
+            "aniversario_namoro": date(2025, 5, 25)  # Dia da Toalha/Orgulho Nerd
+        }
+
+        self.formacao = {
+            "curso": "Engenharia de Software (Início: 2023.1)",
+            "pesquisa_anterior": "Iniciação Científica em 'Bias in Machine Learning'",
+            "foco_atual": "Certificações Python (PCEP/PCAP) e Computação Quântica (Q#)"
+        }
+
+    def filosofia_criativa(self) -> str:
+        """
+        Retorna a filosofia central que guia tanto o código quanto a escrita.
+        
+        Baseada em 'Cybertext: Perspectives on Ergodic Literature' de Espen Aarseth 
+        e na obra 'House of Leaves' de Mark Z. Danielewski.
+        """
+        return (
+            "Acredito no esforço não-trivial para atravessar o texto. Seja em um "
+            "sistema de RPG ou em uma aplicação Django, a estrutura deve ser parte "
+            "da narrativa, criando labirintos onde a forma e o conteúdo são indissociáveis."
+        )
+
+    def listar_projetos_em_desenvolvimento(self) -> Dict[str, str]:
+        """
+        Retorna o portfólio atual de projetos técnicos e literários.
+        """
+        return {
+            "Abraxas": (
+                "Sistema de RPG autoral com design ergódico. As mecânicas estão "
+                "escondidas no layout do livro (feito em LaTeX)."
+            ),
+            "Sádica Soberania Silenciosa": (
+                "Campanha de Tormenta20 centrada no vilão Ferren Asloth, "
+                "explorando temas de horror e controle."
+            ),
+            "Cybertext_RPG_Engine": (
+                "Aplicação Web desenvolvida com Django e HTMX que simula interfaces "
+                "de sistemas operacionais antigos (Win98/XP) para imersão narrativa."
+            ),
+            "Labirinto": "Obra interativa desenvolvida na engine Twine."
+        }
+
+    def hobbies_e_interesses(self) -> List[str]:
+        """
+        Lista de interesses recreativos que alimentam a criatividade.
+        """
         return [
-            "🔭 Working with YOLO & Object Detection",
-            "🌱 Learning MLOps & Model Deployment",
-            "💡 Building data pipelines with Apache Hop"
+            "Mestra de TTRPG (Ordem Paranormal, Tormenta20, BRP)",
+            "Jogos Roguelike (Dead Cells, Balatro)",
+            "Estética de John Tenniel (Alice no País das Maravilhas)",
+            "Programação de Bots para Discord e Automação"
         ]
+
+    def __repr__(self):
+        return f"<Aurora: Coder, Writer & Ergodic Architect starting {self.formacao['curso']}>"
 ```
 
 ---
@@ -76,72 +113,42 @@ class Aurora:
 
 ```yaml
 languages:
-  - Python (Primary / Primária)
-  - SQL
-  - JavaScript, HTML, CSS
-  - LaTeX
+  - Python _(Foco Principal & Certificações PCEP/PCAP)_
+  - LaTeX _(Design Ergódico & Documentação Técnica)_
+  - PHP _(Ensino & Desenvolvimento Web)_
+  - Q# _(Estudos em Computação Quântica)_
 
-ml_frameworks:
-  - scikit-learn
-  - pandas & numpy
-  - PyTorch
-  - YOLO
+frameworks:
+  - Django _(Aplicações Web & RPG Engine)_
+  - HTMX _(Frontend Dinâmico & Estética Retro)_
+  - Discord.py _(Bots para RPG & Gestão de Comunidade)_
+  - Twine / Harlowe _(Narrativas Interativas "Labirinto")_
 
 tools:
-  - PyCharm, VS Code
+  - VS Code
   - Git & GitHub
-  - Jupyter Notebooks
+  - Jupyter Notebooks _(Pesquisa em ML)_
+  - Overleaf _(Edição LaTeX)_
   - Linux
-  - Docker
 ```
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" alt="jupyter logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="50" alt="pycharm logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=md" height="30" alt="markdown logo"  />
+  <img src="https://skillicons.dev/icons?i=md" height="50" alt="markdown logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=latex" height="50" alt="latex logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=latex" height="30" alt="latex logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
 </div>
 
 ###
-
----
-
-## ⭐ Projetos em Destaque / Featured Projects
-
-### 🇧🇷 Português
-
-- **[YOLOPunk](https://github.com/Crise-Ergodica/yolopunk)** - Um framework para detecção de objetos usando YOLO
-- **[Unbenanntes_Projekt](https://github.com/Crise-Ergodica/Unbenanntes_Projekt)** - Experimentos de ciência de dados e modelos
-
-### 🇬🇧 English
-
-- **[YOLOPunk](https://github.com/Crise-Ergodica/yolopunk)** - A framework for object detection using YOLO
-- **[Unbenanntes_Projekt](https://github.com/Crise-Ergodica/Unbenanntes_Projekt)** - Data science experiments and models
-
----
-
-## 📫 Vamos Conectar / Let's Connect
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D4A5A5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-B5C7D3?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![GitHub](https://img.shields.io/badge/GitHub-5A5A5A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Crise-Ergodica)
-
-</div>
 
 ---
 
@@ -153,10 +160,10 @@ tools:
 
 ###
 
-### 🇧🇷 Português
+### Português
 **Obrigada por visitar! Sinta-se livre para explorar meus projetos e entrar em contato.** ✨
 
-### 🇬🇧 English
+### English
 **Thanks for visiting! Feel free to explore my projects and reach out.** ✨
 
 </div>
